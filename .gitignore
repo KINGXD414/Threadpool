@@ -1,0 +1,7 @@
+*.o
+*.exe
+build/
+bin/
+*.log
+.vscode/
+.idea/
